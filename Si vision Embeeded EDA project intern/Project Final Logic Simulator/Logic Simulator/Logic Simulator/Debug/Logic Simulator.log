@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Si-Vision EDA\Project Final Logic Simulator\Logic Simulator\Logic Simulator\Source.cpp(322,21): warning C4018: '<': signed/unsigned mismatch
+E:\Si-Vision EDA\Project Final Logic Simulator\Logic Simulator\Logic Simulator\Source.cpp(336,43): warning C4018: '<': signed/unsigned mismatch
+E:\Si-Vision EDA\Project Final Logic Simulator\Logic Simulator\Logic Simulator\Source.cpp(487,25): warning C4018: '<': signed/unsigned mismatch
+  Logic Simulator.vcxproj -> E:\Si-Vision EDA\Project Final Logic Simulator\Logic Simulator\Debug\Logic Simulator.exe
